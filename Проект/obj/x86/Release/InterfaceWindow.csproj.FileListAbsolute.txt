@@ -1,0 +1,14 @@
+D:\WCFEXAMPLE\WcfService1\Проект\bin\Release\ServerClient.exe.config
+D:\WCFEXAMPLE\WcfService1\Проект\bin\Release\ServerClient.exe
+D:\WCFEXAMPLE\WcfService1\Проект\bin\Release\ServerClient.pdb
+D:\WCFEXAMPLE\WcfService1\Проект\obj\x86\Release\MainWindow.baml
+D:\WCFEXAMPLE\WcfService1\Проект\obj\x86\Release\SettingWindow.baml
+D:\WCFEXAMPLE\WcfService1\Проект\obj\x86\Release\MainWindow.g.cs
+D:\WCFEXAMPLE\WcfService1\Проект\obj\x86\Release\SettingWindow.g.cs
+D:\WCFEXAMPLE\WcfService1\Проект\obj\x86\Release\App.g.cs
+D:\WCFEXAMPLE\WcfService1\Проект\obj\x86\Release\ServerClient_MarkupCompile.cache
+D:\WCFEXAMPLE\WcfService1\Проект\obj\x86\Release\ServerClient.g.resources
+D:\WCFEXAMPLE\WcfService1\Проект\obj\x86\Release\InterfaceWindow.Properties.Resources.resources
+D:\WCFEXAMPLE\WcfService1\Проект\obj\x86\Release\InterfaceWindow.csproj.GenerateResource.Cache
+D:\WCFEXAMPLE\WcfService1\Проект\obj\x86\Release\ServerClient.exe
+D:\WCFEXAMPLE\WcfService1\Проект\obj\x86\Release\ServerClient.pdb

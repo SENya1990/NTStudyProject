@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="2a168c76-77ea-4433-b4ce-4940751c9ca5" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://nikom.us.to/WCFSERVICE/Service.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Service3.xsd" MetadataType="Schema" ID="bb3d3cc2-ce65-43a0-ba8e-346ec2e260c1" SourceId="1" SourceUrl="http://nikom.us.to/WCFSERVICE/Service.svc?xsd=xsd2" />
+    <MetadataFile FileName="Service31.xsd" MetadataType="Schema" ID="8ad09e28-82fc-4e57-a4ed-69f9a7c13418" SourceId="1" SourceUrl="http://nikom.us.to/WCFSERVICE/Service.svc?xsd=xsd0" />
+    <MetadataFile FileName="Service1.wsdl" MetadataType="Wsdl" ID="1f1e2bde-ff65-4921-94f5-fb4a2baeeb11" SourceId="1" SourceUrl="http://nikom.us.to/WCFSERVICE/Service.svc?wsdl" />
+    <MetadataFile FileName="Service1.disco" MetadataType="Disco" ID="75a4908f-bf74-4336-9f48-7849a5e99167" SourceId="1" SourceUrl="http://nikom.us.to/WCFSERVICE/Service.svc?disco" />
+    <MetadataFile FileName="Service32.xsd" MetadataType="Schema" ID="0c235b6f-5502-45b0-851c-500d08a5ef33" SourceId="1" SourceUrl="http://nikom.us.to/WCFSERVICE/Service.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

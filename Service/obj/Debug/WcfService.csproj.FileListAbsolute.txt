@@ -1,0 +1,8 @@
+c:\users\nik\documents\visual studio 2010\Projects\WcfService1\WcfService3\bin\WcfService.dll
+c:\users\nik\documents\visual studio 2010\Projects\WcfService1\WcfService3\bin\WcfService.pdb
+c:\users\nik\documents\visual studio 2010\Projects\WcfService1\WcfService3\obj\Debug\WcfService.dll
+c:\users\nik\documents\visual studio 2010\Projects\WcfService1\WcfService3\obj\Debug\WcfService.pdb
+C:\Users\Nik\Documents\Visual Studio 2010\Projects\WcfService1\Service\bin\WcfService.dll
+C:\Users\Nik\Documents\Visual Studio 2010\Projects\WcfService1\Service\bin\WcfService.pdb
+C:\Users\Nik\Documents\Visual Studio 2010\Projects\WcfService1\Service\obj\Debug\WcfService.dll
+C:\Users\Nik\Documents\Visual Studio 2010\Projects\WcfService1\Service\obj\Debug\WcfService.pdb
